@@ -1,0 +1,12 @@
+1. 
+dowload the angular cli 
+npm install -g @angular/cli
+
+create new project
+  project name should not contain white space or 'test'
+  --no-strict : its a special mode in which we can create our projects
+  ng new my-app --no-strict
+ng new my-app
+
+server the project
+ng serve 
