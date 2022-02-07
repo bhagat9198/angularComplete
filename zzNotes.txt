@@ -1,4 +1,4 @@
-1. 
+1.8 : editing the app
 dowload the angular cli 
 npm install -g @angular/cli
 
